@@ -1,0 +1,23 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+backend/.env
+
+# Database
+backend/careerflow.db
+backend/*.db
+backend/*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
